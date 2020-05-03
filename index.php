@@ -45,11 +45,8 @@ if (isset($_SESSION['login'])) {
                 case "accueil" :
                     include("./PHP_Files/accueil.php");
                     break;
-                case "ajout_spectacle_1_formulaire" :
-                    include("./PHP_Files/ajout_spectacle_1_formulaire.php");
-                    break;
-                case "ajout_spectacle_2_reception" :
-                    include("./PHP_Files/ajout_spectacle_2_reception.php");
+                case "suppression_jeu_reception":
+                    include("./PHP_Files/suppression_jeu_reception.php";
                     break;
                 case "formulaire_inscription" :
                     include("./PHP_Files/formulaire_inscription.php");
