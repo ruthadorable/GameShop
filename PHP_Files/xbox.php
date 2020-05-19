@@ -8,7 +8,7 @@
                 <h2>Console XBOX Noir</h2>
                 <p>Prix: 390 euros </p>
                 <p> <h3>Description du produit</h3>
-                La Xbox One X est destinée aux gamers sérieux qui veulent faire l'expérience de jeux vidéo et de divertissement en 4K. La Xbox One X est environ 2x plus rapide qu'une Xbox One S ; vous pourrez donc jouer aux derniers jeux en 4K. Pour les cinéphiles, le design noir et épuré de la Xbox One X s'intègre dans tous les home cinémas. De plus, cette console dispose d'un lecteur Blu-ray Ultra HD ; vous pourrez donc profiter des derniers films avec une qualité digne d'un cinéma. 
+                La Xbox One X est destinée aux gamers sérieux qui veulent faire l'expérience de jeux vidéo et de divertissement en 4K. La Xbox One X est environ 2x plus rapide qu'une Xbox One S ; vous pourrez donc jouer aux derniers jeux en 4K. Pour les cinéphiles, le design noir et épuré de la Xbox One X s'intègre dans tous les home cinémas. De plus, cette console dispose d'un lecteur Blu-ray Ultra HD ; vous pourrez donc profiter des derniers films avec une qualité digne d'un cinéma.
                 Caractéristique unique de la Xbox One X : grâce au système de refroidissement liquide, elle fait très peu de bruit pendant les sessions de jeu.
 
                 </p>
@@ -58,21 +58,21 @@
                             <div class="carousel-caption">
                                 <h3>XBOX one + Fall Out Special Edition</h3>
 
-                            </div>   
+                            </div>
                         </div>
                         <div class="carousel-item">
                             <img src="images/xboxwhiteconsole.jpg" class="img-fluid" width="1100" height="500">
                             <div class="carousel-caption">
                                 <h3>Console xbox blanc</h3>
 
-                            </div>   
+                            </div>
                         </div>
                         <div class="carousel-item">
                             <img src="images/manettexbox.jpg" class="img-fluid" width="1100" height="500">
                             <div class="carousel-caption">
                                 <h3>Manette Xbox</h3>
 
-                            </div>   
+                            </div>
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#demo" data-slide="prev">
@@ -94,9 +94,9 @@
                 <p>Prix: 489,05 euros </p>
                 <h3>Description du produit</h3>
                 <p>
-                    Le pack Xbox One X Special Edition Fallout 76 est destiné aux gamers sérieux à la recherche d'une Xbox One X blanche 
-                    en édition limitée avec le premier jeu multijoueur de la série Fallout : Fallout 76. La Xbox One X est environ 2x plus rapide qu'une Xbox One S ; 
-                    vous pouvez donc jouer aux derniers jeux en 4K. Pour les cinéphiles, le design raffiné et la couleur noire de la Xbox One X s'intègrent dans tous les home cinéma. 
+                    Le pack Xbox One X Special Edition Fallout 76 est destiné aux gamers sérieux à la recherche d'une Xbox One X blanche
+                    en édition limitée avec le premier jeu multijoueur de la série Fallout : Fallout 76. La Xbox One X est environ 2x plus rapide qu'une Xbox One S ;
+                    vous pouvez donc jouer aux derniers jeux en 4K. Pour les cinéphiles, le design raffiné et la couleur noire de la Xbox One X s'intègrent dans tous les home cinéma.
                     De plus, cette console dispose d'un lecteur Blu-ray Ultra HD ; de ce fait, les derniers films sont restitués avec une qualité digne d'un cinéma.
                     Une caractéristique unique de la Xbox One X est le fait qu'elle émet à peine du bruit pendant les sessions de jeu, ce qui est dû au refroidissement liquide.
                 </p>

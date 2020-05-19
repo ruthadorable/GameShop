@@ -13,15 +13,15 @@
                     <a class="dropdown-item" href="index.php?choix=ps4">PS4</a>
                     <a class="dropdown-item" href="index.php?choix=xbox">XBOX</a>
                     <a class="dropdown-item" href="index.php?choix=wii">Wii</a>
-                    
+
                 </div>
             </div>
-            
+
             </a></li>
         <li class="nav-item"><a class="nav-link" href="index.php?choix=figurines">Figurines</a></li>
         <a href="menu_non_authentifie.php"></a>
         <li class="nav-item"><a class="nav-link bg-warning" href="index.php?choix=formulaire_inscription">Créer Mon Compte</a></li>
-           
+
 
     </ul>
     <!--COMPLETER bouton de connexion-->
@@ -39,7 +39,7 @@
 
 
 
-        <button class="btn btn-succes" type="submit">Se connecter</button>
-        
-    </form> 
+        <button class="btn btn-succes" type="submit">Me connecter</button>
+
+    </form>
 </nav>

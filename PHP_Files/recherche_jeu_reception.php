@@ -22,7 +22,7 @@ if ($sth === FALSE) {
     //var_dump($jeu);
 
         ?><table border='1px solid black'><?php foreach ($jeu as $donnee) { ?><tr><?php
-        
+
 
         echo ("<td><p> ID n° : ". $donnee['id']." </p></td>");
         echo("<td><p>Titre: " . $donnee['titre'] . "</p></td> \r\n");
@@ -34,6 +34,6 @@ if ($sth === FALSE) {
             ?></tr><?php
         }
         ?></table><?php
-    
+
 }
 ?>

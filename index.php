@@ -1,4 +1,3 @@
-
 <?php
 session_start();
 
@@ -14,7 +13,10 @@ include("./PHP_Files/db/connexion_db.php");
         <script src="jquery/jquery-3.3.1.min.js"></script>
         <script src="popper/popper.js"></script>
         <script src="bootstrap/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="./bootstrap/css/style.css" type="text/css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     </head>
     <body>
 
@@ -30,23 +32,26 @@ if (isset($_SESSION['login'])) {
 
             <?php
             if (isset($_GET['choix'])) {
-                $choix = $_GET['choix'];
+                $choix=$_GET['choix'];
             } else {
-                $choix = "presentation";
+                $choix="presentation";
             }
 
-            switch ($choix) {
+            switch( $choix ) {
                 case "acces_non_autorise" :
                     include("./PHP_Files/acces_non_autorise.php");
                     break;
                 case "presentation" :
-                    include("./PHP_Files/presentation.php");
+                    include('./PHP_Files/presentation.php');
                     break;
                 case "accueil" :
                     include("./PHP_Files/accueil.php");
                     break;
-                case "suppression_jeu_reception":
-                    include("./PHP_Files/suppression_jeu_reception.php";
+                case "ajout_spectacle_1_formulaire" :
+                    include("./PHP_Files/ajout_spectacle_1_formulaire.php");
+                    break;
+                case "ajout_spectacle_2_reception" :
+                    include("./PHP_Files/ajout_spectacle_2_reception.php");
                     break;
                 case "formulaire_inscription" :
                     include("./PHP_Files/formulaire_inscription.php");
@@ -110,7 +115,7 @@ if (isset($_SESSION['login'])) {
                     include ("./PHP_Files/suppressionpanier_jeu.php");
                     break;
                 default :
-                    echo("<p>Valeur du parametre choix non prise en charge");
+                    echo("<p>Valeur du parametre choix non prise en charge</p>");
                     break;
             }
             ?>
@@ -120,6 +125,6 @@ if (isset($_SESSION['login'])) {
             ?>
 
         </div>
-        
+
     </body>
 </html>

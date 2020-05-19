@@ -1,7 +1,7 @@
 
 <h1>Réception des données de l'ajout d'un client</h1>
 
-<!--Réception des données POST d'un client (nom, prenom, adresse, password, login) : 
+<!--Réception des données POST d'un client (nom, prenom, adresse, password, login) :
 var_dump puis enregistrement dans des variables-->
 <?php
 
@@ -38,7 +38,7 @@ if($requete_correcte===FALSE)
 else
 {
     $nb_lignes_inserees=$sth->rowCount();
-    
+
     echo("Réussite de l'insert: 1 ligne a été insérée en DB");
     $id++;
     echo("<h2>Vous pouvez vous connecter avec votre login et mot de passe</h2>");

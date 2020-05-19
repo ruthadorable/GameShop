@@ -11,7 +11,7 @@ $requete_correcte = $sth->execute();
 if ($requete_correcte=== FALSE) {
     echo("Erreur: la requete SQL est incorrecte. <br/>");}
 else {$le_cours = $sth->fetch(PDO::FETCH_ASSOC);
-    
+
 // Var_dump a retirer lorsque la requete fonctionnera
 //var_dump($sql);
 $nb_lignes_ajoutees=$sth->rowCount();

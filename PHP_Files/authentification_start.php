@@ -12,7 +12,7 @@ $sth->bindvalue(':login',$login);
 $requete_correcte = $sth->execute();
 if ($requete_correcte=== FALSE) {
     echo("Erreur: la requete SQL est incorrecte. <br/>");
-    
+
     header('Location:index.php?choix=form&msg=err_sql');
     }
     else{

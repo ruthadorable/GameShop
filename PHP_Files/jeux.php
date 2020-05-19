@@ -3,7 +3,7 @@
     /*.images table td{
        width:150px;
        height: 250px;
-    }  
+    }
     */
     body{
 
@@ -21,7 +21,7 @@
     }
 </style>
 <script type="text/javascript">
-    
+
     $(document).ready(function () { // NE PAS MODIFIER CETTE LIGNE
 
         //filtrage PS4
@@ -63,7 +63,7 @@
             $(".ps4").show();
             $(".wii").show();
         });
-        
+
     }); // NE PAS MODIFIER CETTE LIGNE
 </script>
 <br>
@@ -84,9 +84,9 @@ for ($i = 0; $i < 4; $i++) {
             <td><div class="xbox"><img src="images/jeuxXBOXexodus.jpg" class="img-fluid" ></div></td>
             <td><div class="wii"><img src="images/poképarkwii.jpg" class="img-fluid" ></div></td>
             <td><div class="nintendo"><img src="images/jeuxBazBlueCentralfiction.jpg" class="img-fluid" ></div></td>
-    
+
             <td><div class="xbox"><img src="images/jeuxXBOXANTHEM.jpg" class="img-fluid" ></div></td>
-            <td><div class="wii"><img src="images/skylanderwii.jpg" class="img-fluid" ></div></td>
+            <td><div class="wii"><img src="images/jeuxFarCryNewDawn.jpg" class="img-fluid" ></div></td>
             <td><div class="xbox"><img src="images/jeuxXBOXlego.jpg" class="img-fluid" ></div></td>
             <td><div class="wii"><img src="images/ninjaturtlewii.jpg" class="img-fluid" ></div></td>
         </tr>
@@ -95,7 +95,7 @@ for ($i = 0; $i < 4; $i++) {
             <td><div class="ps4"><img src="images/jeuxDeadoralive.jpg"></div></td>
             <td><div class="ps4"><img src="images/jeuxFarCryNewDawn.jpg"></div></td>
             <td><div class="ps4"><img src="images/jeuxRally.jpg"></div></td>
-            
+
             <td><div class="wii"><img src="images/justdancewii.jpg"></div></td>
             <td><div class="xbox"><img src="images/jeuxXBOXexodus.jpg"></div></td>
             <td><div class="xbox"><img src="images/jeuxXBOXlego.jpg"></div></td>
@@ -106,12 +106,12 @@ for ($i = 0; $i < 4; $i++) {
             <td><div class="ps4"><img src="images/finalfantasy2.jpg"></div></td>
             <td><div class="nintendo"><img src="images/wolrd-of-final-fantasy.jpg"></div></td>
             <td><div class="ps4"><img src="images/jeuxRally.jpg"></div></td>
-            
+
             <td><div class="wii"><img src="images/justdancewii.jpg"></div></td>
             <td><div class="xbox"><img src="images/jeuxXBOXexodus.jpg"></div></td>
             <td><div class="xbox"><img src="images/jeuxXBOXlego.jpg"></div></td>
             <td><div class="nintendo"><img src="images/jeuxBazBlueCentralfiction.jpg"></div></td>
-        </tr>        
+        </tr>
             ');
 }
 ?>

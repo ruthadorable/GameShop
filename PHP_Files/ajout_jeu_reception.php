@@ -1,7 +1,7 @@
 <h1>Ajout Jeu Réception</h1>
 <br/>
 <h1>Réception d'un jeu</h1>
-<?php 
+<?php
 //var_dump($_POST);
 $id=htmlspecialchars($_POST['id']);
 $titre = htmlspecialchars($_POST['titre']);
@@ -30,19 +30,19 @@ $sth->bindvalue(':libre3',$libre3);
 
 $requete_correcte= $sth->execute();
 //var_dump($sql);
-if ($requete_correcte === FALSE) 
+if ($requete_correcte === FALSE)
     {echo("Erreur: la requete SQL est incorrecte. <br/>");}
 else {
     $nb_lignes_inserees = $sth->rowCount();
     //$nb_lignes_inserees = $dbh->exec($sql);
     //// Affichage du résultat : if ($nb_lignes_inserees===1) {...}}
 // Var_dump a retirer lorsque la requete SQL fonctionnera.
-        
-   
+
+
     // Affichage
     if ($nb_lignes_inserees === 1) {
         echo("Reussite de l’INSERT : 1 ligne a été inseree en DB.");
-        } 
+        }
     elseif ($nb_lignes_inserees === 0){
             echo("Requete SQL syntaxiquement correcte MAIS aucune ligne n’a
             été inseree en DB. Verifier la requete (table, colonnes...)");

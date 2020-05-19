@@ -22,4 +22,4 @@ if ($sth === FALSE) {
         }
         ?></table><?php
     }
-    ?> 
+    ?>

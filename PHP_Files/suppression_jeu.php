@@ -15,5 +15,5 @@ if ($nb_lignes_supprimees === 1) {
  été supprimee en DB. Verifier la requete(table,colonnes...)");
 } elseif ($nb_lignes_supprimees === FALSE) {
  echo("Requete SQL syntaxiquement incorrecte.");
-}   
+}
 ?>

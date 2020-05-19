@@ -7,7 +7,7 @@
             <div class="card-body">
                 <h2>Console Wii + 2 jeux</h2>
                 <p>Prix: 164.99 euros </p>
-                
+
             </div>
             <div class="card-footer">
 
@@ -16,7 +16,7 @@
                 <div id="demo" class="collapse">
                     <br><br>
                     <h4>Caractéristiques techniques</h4><br>
-                        
+
 
 
                         <p>Plateforme:</p>
@@ -40,8 +40,8 @@
                         Lecteur de de disques optiques de 12 cm à simple ou double couche et 8 cm (pour jeux GameCube), service WiiConnect24 de connexion Internet lorsque la console est éteinte, possibilité de communication sans fil avec la Nintendo DS
 
 
-                    
-                    
+
+
                 </div>
             </div>
         </div>
@@ -51,10 +51,10 @@
         <div class="card">
             <div class="card-header"><img src="images/wiiplatformred.jpg"class="img-fluid" ></div>
                 <div class="card-body">
-                    
+
                     <h3>Console Wii rouge Nintendo Pack Anniversaire 25 ans + New Super Mario Bros</h3>
                     Prix: 165.80 euros
-                    
+
 
 
                 </div>
@@ -63,7 +63,7 @@
                 <div id="demo" class="collapse">
                     <br><br>
                     <h4>Caractéristiques techniques</h4><br>
-                       
+
                         <p>Plateforme:</p>
                         Nintendo Wii<br>
                         <p>Ecran Vidéo:</p>
@@ -85,7 +85,7 @@
                         Lecteur de de disques optiques de 12 cm à simple ou double couche et 8 cm (pour jeux GameCube), service WiiConnect24 de connexion Internet lorsque la console est éteinte, possibilité de communication sans fil avec la Nintendo DS
 
                 </div>
-                
+
             </div>
         </div>
     </div>

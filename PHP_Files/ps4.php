@@ -28,15 +28,15 @@
                         <li>La PS4 Slim est plus compacte et plus silencieuse que la PS4 classique et la PS4 Pro. Elle prend donc peu de place dans votre salon.</li>
                         <li>La PS4 Slim convient parfaitement pour les gamers qui jouent de temps en temps ou régulièrement à des jeux tels que FIFA ou Call of Duty et qui n'ont pas besoin des graphismes les plus beaux.</li>
                         <li>Grâce à la conception hyper-développée, la PS4 Slim consomme environ 35 % moins d'énergie qu'une PS4 classique.</li>
-                    
+
                     </ul>
-                  
+
                         Inconvénients :
                     <ul><li>La PS4 Slim n'a pas de sortie optique pour les casques gaming haut de gamme ou les systèmes de son surround.</li>
                         <li>La PS4 Slim n'a pas de sortie optique pour les casques gaming haut de gamme ou les systèmes de son surround.</li>
                         <li>Combinée avec la PlayStation VR, la Slim n'a pas la puissance de calcul supplémentaire de la PS4 Pro.</li>
                     </ul>
-                    
+
                     </p>
                 </div>
             </div>
@@ -47,11 +47,11 @@
         <div class="card">
             <div class="card-header"><img src="images/pack-ps4.jpg"class="img-fluid" ></div>
                 <div class="card-body">
-                    
+
                     <h3>Pack PS4 500 Go Noire + 3 Jeux PlayStation Hits : The Last of Us Remastered + Ratchet & Clank + Uncharted 4 A Thief's End</h3>
                     Prix: 350 euros
                     <h4>Description du produit</h4>
-                        Le bundle contient : - Une PS4 500Go noire - Une manette Dualshock4 noire - 1 Oreillette Micro Mono - 
+                        Le bundle contient : - Une PS4 500Go noire - Une manette Dualshock4 noire - 1 Oreillette Micro Mono -
                         Câble HDMI - Câbles USB et d’alimentation - Le jeu Ratchet & Clank HITS - Le jeu Uncharted 4:
                         A Thiefs End HITS - Le jeu The Last of Us Remastered HITS
 
